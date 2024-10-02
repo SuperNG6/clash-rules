@@ -1,3 +1,4 @@
 payload:
   - '+.apple.com'
   - '+.misakaf.org'
+  - '+.plex.tv'
